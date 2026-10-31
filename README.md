@@ -8,8 +8,8 @@ Completed work covers phenotype and yield-consistency audits, a sample-ID crossw
 
 ## Inputs and correspondence
 
-- `data/raw/Advanced-2021 Orignal .xlsx`: R-1/R-2/R-3, A3:I55; Combined, A3:E55.
-- `data/raw/Advanced-2021-KASP_GenotypeData.xlsx`: Sheet1 sample rows 3–55; marker names in row 1, positions in row 2, marker columns E:SL (5–506). A:D contain laboratory metadata. Summary cells are excluded.
+- `data/raw/Advanced_Lines-2021 Orignal .xlsx`: R-1/R-2/R-3, A3:I55; Combined, A3:E55.
+- `data/raw/Advanced_Lines-2021-KASP_GenotypeData.xlsx`: Sheet1 sample rows 3–55; marker names in row 1, positions in row 2, marker columns E:SL (5–506). A:D contain laboratory metadata. Summary cells are excluded.
 
 The original workbooks, including root-level copies, are preserved. The user confirms phenotype E-n corresponds to **Advanced_lines_21_n** for all 53 entries. This is user-confirmed correspondence, not independent verification from field records. The exact KASP spelling is retained. See `notes/data_dictionary.md` and `notes/decision_notes.md`.
 
