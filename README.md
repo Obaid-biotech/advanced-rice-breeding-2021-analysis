@@ -13,7 +13,7 @@ Completed work covers phenotype and yield-consistency audits, a sample-ID crossw
 
 The original workbooks, including root-level copies, are preserved. The user confirms phenotype E-n corresponds to **Advanced_lines_21_n** for all 53 entries. This is user-confirmed correspondence, not independent verification from field records. The exact KASP spelling is retained. See `notes/data_dictionary.md` and `notes/decision_notes.md`.
 
-The user confirms `plant_weight` means grain weight per plant. Units and sampling details remain unconfirmed. `recorded_yield` is separate: the factor 135.85 is an unverified numerical relationship, not a validated hectare conversion.
+The user confirms `plant_weight` means grain weight per plant.
 
 ## Software and setup
 
